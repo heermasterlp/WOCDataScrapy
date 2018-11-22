@@ -1,0 +1,404 @@
+Population genomic data reveal genes related to important traits of quail
+https://apps.webofknowledge.com/full_record.do?product=WOS&search_mode=AdvancedSearch&qid=1&SID=F2SjnLiVPuaEUXWoJlR&page=1&doc=1
+By:Wu, Y (Wu, Yan)[ 1,3,7 ] ; Zhang, YL (Zhang, Yaolei)[ 2,6,14 ] ; Hou, ZC (Hou, Zhuocheng)[ 4,5 ] ; Fan, GY (Fan, Guangyi)[ 2,6,9,10,14 ] ; Pi, JS (Pi, Jinsong)[ 1 ] ; Sun, S (Sun, Shuai)[ 6 ] ; Chen, J (Chen, Jiang)[ 2,14 ] ; Liu, HQ (Liu, Huaqiao)[ 8 ] ; Du, X (Du, Xiao)[ 6 ] ; Shen, J (Shen, Jie)[ 1 ] ...More
+GIGASCIENCE
+table len: 1
+table: 
+td elements len: 2
+title: Population genomic data reveal genes related to important traits of quail 
+ authors: By:Wu, Y (Wu, Yan)[ 1,3,7 ] ; Zhang, YL (Zhang, Yaolei)[ 2,6,14 ] ; Hou, ZC (Hou, Zhuocheng)[ 4,5 ] ; Fan, GY (Fan, Guangyi)[ 2,6,9,10,14 ] ; Pi, JS (Pi, Jinsong)[ 1 ] ; Sun, S (Sun, Shuai)[ 6 ] ; Chen, J (Chen, Jiang)[ 2,14 ] ; Liu, HQ (Liu, Huaqiao)[ 8 ] ; Du, X (Du, Xiao)[ 6 ] ; Shen, J (Shen, Jie)[ 1 ] ...More 
+ journal: GIGASCIENCE 
+ if:   7.267   
+ if 5year: 10.742 
+ cf: 1 in All Databases
+
+
+
+process 1 page 2 item
+Nine-step total synthesis of (-)-strychnofoline
+https://apps.webofknowledge.com/full_record.do?product=WOS&search_mode=AdvancedSearch&qid=1&SID=F2SjnLiVPuaEUXWoJlR&page=1&doc=2
+By:Yu, QZ (Yu, Qingzhen)[ 1,2 ] ; Guo, P (Guo, Pan)[ 1,2 ] ; Jian, J (Jian, Jie)[ 1,2 ] ; Chen, YY (Chen, Yuye)[ 1,2,3 ] ; Xu, J (Xu, Jing)[ 1,2 ]
+CHEMICAL COMMUNICATIONS
+table len: 1
+table: 
+td elements len: 2
+title: Nine-step total synthesis of (-)-strychnofoline 
+ authors: By:Yu, QZ (Yu, Qingzhen)[ 1,2 ] ; Guo, P (Guo, Pan)[ 1,2 ] ; Jian, J (Jian, Jie)[ 1,2 ] ; Chen, YY (Chen, Yuye)[ 1,2,3 ] ; Xu, J (Xu, Jing)[ 1,2 ] 
+ journal: CHEMICAL COMMUNICATIONS 
+ if:   6.29   
+ if 5year: 6.064 
+ cf: 2 in All Databases
+
+
+
+process 1 page 3 item
+The high-quality genome of Brassica napus cultivar 'ZS11' reveals the introgression history in semi-winter morphotype
+https://apps.webofknowledge.com/full_record.do?product=WOS&search_mode=AdvancedSearch&qid=1&SID=F2SjnLiVPuaEUXWoJlR&page=1&doc=3
+By:Sun, FM (Sun, Fengming)[ 1 ] ; Fan, GY (Fan, Guangyi)[ 2,10,11,12 ] ; Hu, Q (Hu, Qiong)[ 1 ] ; Zhou, YM (Zhou, Yongming)[ 3 ] ; Guan, M (Guan, Mei)[ 4 ] ; Tong, CB (Tong, Chaobo)[ 1 ] ; Li, JN (Li, Jiana)[ 6 ] ; Du, DZ (Du, Dezhi)[ 7 ] ; Qi, CK (Qi, Cunkou)[ 8 ] ; Jiang, LC (Jiang, Liangcai)[ 9 ] ...More
+PLANT JOURNAL
+table len: 1
+table: 
+td elements len: 2
+title: The high-quality genome of Brassica napus cultivar 'ZS11' reveals the introgression history in semi-winter morphotype 
+ authors: By:Sun, FM (Sun, Fengming)[ 1 ] ; Fan, GY (Fan, Guangyi)[ 2,10,11,12 ] ; Hu, Q (Hu, Qiong)[ 1 ] ; Zhou, YM (Zhou, Yongming)[ 3 ] ; Guan, M (Guan, Mei)[ 4 ] ; Tong, CB (Tong, Chaobo)[ 1 ] ; Li, JN (Li, Jiana)[ 6 ] ; Du, DZ (Du, Dezhi)[ 7 ] ; Qi, CK (Qi, Cunkou)[ 8 ] ; Jiang, LC (Jiang, Liangcai)[ 9 ] ...More 
+ journal: PLANT JOURNAL 
+ if:   5.775   
+ if 5year: 6.101 
+ cf: 10 in All Databases
+
+
+
+process 1 page 4 item
+Multiple cellular targets of the neuroprotectant BHDPC in autoimmune mediated CNS demyelination
+https://apps.webofknowledge.com/full_record.do?product=WOS&search_mode=AdvancedSearch&qid=1&SID=F2SjnLiVPuaEUXWoJlR&page=1&doc=4
+By:Zhao, C (Zhao, C.)[ 1,2 ] ; Ma, D (Ma, D.)[ 1,2 ] ; Yonetani, M (Yonetani, M.)[ 1,2 ] ; Chong, CM (Chong, C. -M.)[ 3,4 ] ; Li, CW (Li, C. -W.)[ 3,4 ] ; Peruzzotti-Jametti, L (Peruzzotti-Jametti, L.)[ 1,2 ] ; Balzarotti, B (Balzarotti, B.)[ 1,2 ] ; Wang, L (Wang, L.)[ 3,4 ] ; Wu, Z (Wu, Z.)[ 1,2 ] ; Zheng, Y (Zheng, Y.)[ 1,2 ] ...More
+GLIA
+table len: 1
+table: 
+td elements len: 2
+title: Multiple cellular targets of the neuroprotectant BHDPC in autoimmune mediated CNS demyelination 
+ authors: By:Zhao, C (Zhao, C.)[ 1,2 ] ; Ma, D (Ma, D.)[ 1,2 ] ; Yonetani, M (Yonetani, M.)[ 1,2 ] ; Chong, CM (Chong, C. -M.)[ 3,4 ] ; Li, CW (Li, C. -W.)[ 3,4 ] ; Peruzzotti-Jametti, L (Peruzzotti-Jametti, L.)[ 1,2 ] ; Balzarotti, B (Balzarotti, B.)[ 1,2 ] ; Wang, L (Wang, L.)[ 3,4 ] ; Wu, Z (Wu, Z.)[ 1,2 ] ; Zheng, Y (Zheng, Y.)[ 1,2 ] ...More 
+ journal: GLIA 
+ if:   5.846   
+ if 5year: 6.151 
+ cf: 0
+
+
+
+process 1 page 5 item
+The Formyl Peptide Receptors: Diversity of Ligands and Mechanism for Recognition
+https://apps.webofknowledge.com/full_record.do?product=WOS&search_mode=AdvancedSearch&qid=1&SID=F2SjnLiVPuaEUXWoJlR&page=1&doc=5
+By:He, HQ (He, Hui-Qiong)[ 1,2 ] ; Ye, RD (Ye, Richard D.)[ 2 ]
+MOLECULES
+table len: 1
+table: 
+td elements len: 2
+title: The Formyl Peptide Receptors: Diversity of Ligands and Mechanism for Recognition 
+ authors: By:He, HQ (He, Hui-Qiong)[ 1,2 ] ; Ye, RD (Ye, Richard D.)[ 2 ] 
+ journal: MOLECULES 
+ if:   3.098   
+ if 5year: 3.268 
+ cf: 13 in All Databases
+
+
+
+process 1 page 6 item
+Theranostic Liposomes with HypoxiaActivated Prodrug to Effectively Destruct Hypoxic Tumors Post-Photodynamic Therapy
+https://apps.webofknowledge.com/full_record.do?product=WOS&search_mode=AdvancedSearch&qid=1&SID=F2SjnLiVPuaEUXWoJlR&page=1&doc=6
+By:Feng, LZ (Feng, Liangzhu)[ 1,2 ] ; Cheng, L (Cheng, Liang)[ 1,3,4 ] ; Dong, ZL (Dong, Ziliang)[ 1 ] ; Tao, DL (Tao, Danlei)[ 1 ] ; Barnhart, TE (Barnhart, Todd E.)[ 3,4 ] ; Cai, WB (Cai, Weibo)[ 3,4 ] ; Chen, MW (Chen, Meiwan)[ 2 ] ; Liu, Z (Liu, Zhuang)[ 1 ]
+ACS NANO
+table len: 1
+table: 
+td elements len: 2
+title: Theranostic Liposomes with HypoxiaActivated Prodrug to Effectively Destruct Hypoxic Tumors Post-Photodynamic Therapy 
+ authors: By:Feng, LZ (Feng, Liangzhu)[ 1,2 ] ; Cheng, L (Cheng, Liang)[ 1,3,4 ] ; Dong, ZL (Dong, Ziliang)[ 1 ] ; Tao, DL (Tao, Danlei)[ 1 ] ; Barnhart, TE (Barnhart, Todd E.)[ 3,4 ] ; Cai, WB (Cai, Weibo)[ 3,4 ] ; Chen, MW (Chen, Meiwan)[ 2 ] ; Liu, Z (Liu, Zhuang)[ 1 ] 
+ journal: ACS NANO 
+ if:   13.709   
+ if 5year: 14.82 
+ cf: 66 in All Databases
+
+
+
+process 1 page 7 item
+Draft genome of the living fossil Ginkgo biloba
+https://apps.webofknowledge.com/full_record.do?product=WOS&search_mode=AdvancedSearch&qid=1&SID=F2SjnLiVPuaEUXWoJlR&page=1&doc=7
+By:Guan, R (Guan, Rui)[ 1,4,5 ] ; Zhao, YP (Zhao, Yunpeng)[ 2,6,7 ] ; Zhang, H (Zhang, He)[ 1,4,10 ] ; Fan, GY (Fan, Guangyi)[ 1,4,8,9 ] ; Liu, X (Liu, Xin)[ 1 ] ; Zhou, WB (Zhou, Wenbin)[ 2,6,7 ] ; Shi, CC (Shi, Chengcheng)[ 1 ] ; Wang, JH (Wang, Jiahao)[ 1 ] ; Liu, WQ (Liu, Weiqing)[ 11 ] ; Liang, XM (Liang, Xinming)[ 1 ] ...More
+GIGASCIENCE
+table len: 1
+table: 
+td elements len: 2
+title: Draft genome of the living fossil Ginkgo biloba 
+ authors: By:Guan, R (Guan, Rui)[ 1,4,5 ] ; Zhao, YP (Zhao, Yunpeng)[ 2,6,7 ] ; Zhang, H (Zhang, He)[ 1,4,10 ] ; Fan, GY (Fan, Guangyi)[ 1,4,8,9 ] ; Liu, X (Liu, Xin)[ 1 ] ; Zhou, WB (Zhou, Wenbin)[ 2,6,7 ] ; Shi, CC (Shi, Chengcheng)[ 1 ] ; Wang, JH (Wang, Jiahao)[ 1 ] ; Liu, WQ (Liu, Weiqing)[ 11 ] ; Liang, XM (Liang, Xinming)[ 1 ] ...More 
+ journal: GIGASCIENCE 
+ if:   7.267   
+ if 5year: 10.742 
+ cf: 32 in All Databases
+
+
+
+process 1 page 8 item
+HIGH DOSE OF ATORVASTATIN INDUCES CEREBRAL HEMORRHAGE BY DAMAGING BLOOD VESSEL STABILITY VIA SMALL GTPASES MEDIATED SRC/VE-CADHERIN/CATENINS PATHWAYS IN HUMAN ENDOTHELIAL CELL
+https://apps.webofknowledge.com/full_record.do?product=WOS&search_mode=AdvancedSearch&qid=1&SID=F2SjnLiVPuaEUXWoJlR&page=1&doc=8
+By:Li, S (Li, S.)[ 1 ] ; Hoi, PM (Hoi, P. M.)[ 1 ] ; Lee, SMY (Lee, S. M. Y.)[ 1 ]
+JOURNAL OF CEREBRAL BLOOD FLOW AND METABOLISM
+table len: 1
+table: 
+td elements len: 2
+title: HIGH DOSE OF ATORVASTATIN INDUCES CEREBRAL HEMORRHAGE BY DAMAGING BLOOD VESSEL STABILITY VIA SMALL GTPASES MEDIATED SRC/VE-CADHERIN/CATENINS PATHWAYS IN HUMAN ENDOTHELIAL CELL 
+ authors: By:Li, S (Li, S.)[ 1 ] ; Hoi, PM (Hoi, P. M.)[ 1 ] ; Lee, SMY (Lee, S. M. Y.)[ 1 ] 
+ journal: JOURNAL OF CEREBRAL BLOOD FLOW AND METABOLISM 
+ if:   6.045   
+ if 5year: 6.03 
+ cf: 0
+
+
+
+process 1 page 9 item
+Qualitative and quantitative characterization of phenolic and diterpenoid constituents in Danshen (Salvia miltiorrhiza) by comprehensive two-dimensional liquid chromatography coupled with hybrid linear ion trap Orbitrap mass
+https://apps.webofknowledge.com/full_record.do?product=WOS&search_mode=AdvancedSearch&qid=1&SID=F2SjnLiVPuaEUXWoJlR&page=1&doc=9
+By:Cao, JL (Cao, Ji-Liang)[ 1 ] ; Wei, JC (Wei, Jin-Chao)[ 1 ] ; Hu, YJ (Hu, Yuan-Jia)[ 1 ] ; He, CW (He, Cheng-Wei)[ 1 ] ; Chen, MW (Chen, Mei-Wan)[ 1 ] ; Wan, JB (Wan, Jian-Bo)[ 1 ] ; Li, P (Li, Peng)[ 1 ]
+JOURNAL OF CHROMATOGRAPHY A
+table len: 1
+table: 
+td elements len: 2
+title: Qualitative and quantitative characterization of phenolic and diterpenoid constituents in Danshen (Salvia miltiorrhiza) by comprehensive two-dimensional liquid chromatography coupled with hybrid linear ion trap Orbitrap mass 
+ authors: By:Cao, JL (Cao, Ji-Liang)[ 1 ] ; Wei, JC (Wei, Jin-Chao)[ 1 ] ; Hu, YJ (Hu, Yuan-Jia)[ 1 ] ; He, CW (He, Cheng-Wei)[ 1 ] ; Chen, MW (Chen, Mei-Wan)[ 1 ] ; Wan, JB (Wan, Jian-Bo)[ 1 ] ; Li, P (Li, Peng)[ 1 ] 
+ journal: JOURNAL OF CHROMATOGRAPHY A 
+ if:   3.716   
+ if 5year: 3.713 
+ cf: 16 in All Databases
+
+
+
+process 1 page 10 item
+The modulatory effects of cancer preventive herbal saponins on gut microbiota and mucosal environment in ApcMin/ plus mice
+https://apps.webofknowledge.com/full_record.do?product=WOS&search_mode=AdvancedSearch&qid=1&SID=F2SjnLiVPuaEUXWoJlR&page=1&doc=10
+By:Chen, L (Chen, Lei)[ 1 ] ; Singh, M (Singh, Manreet)[ 2 ] ; Leung, FCC (Leung, Frederick C. C.)[ 2 ] ; Hsiao, WLW (Hsiao, W. L. Wendy)[ 3 ]
+CANCER RESEARCH
+table len: 1
+table: 
+td elements len: 2
+title: The modulatory effects of cancer preventive herbal saponins on gut microbiota and mucosal environment in ApcMin/ plus mice 
+ authors: By:Chen, L (Chen, Lei)[ 1 ] ; Singh, M (Singh, Manreet)[ 2 ] ; Leung, FCC (Leung, Frederick C. C.)[ 2 ] ; Hsiao, WLW (Hsiao, W. L. Wendy)[ 3 ] 
+ journal: CANCER RESEARCH 
+ if:   9.13   
+ if 5year: 9.578 
+ cf: 0
+
+
+
+process 2 page 11 item
+Transcriptome analysis of leaves, roots and flowers of Panax notoginseng identifies genes involved in ginsenoside and alkaloid biosynthesis
+https://apps.webofknowledge.com/full_record.do?product=WOS&search_mode=AdvancedSearch&qid=1&SID=F2SjnLiVPuaEUXWoJlR&page=2&doc=11
+By:Liu, MH (Liu, Ming-Hua)[ 1 ] ; Yang, BR (Yang, Bin-Rui)[ 3,4 ] ; Cheung, WF (Cheung, Wai-Fung)[ 5 ] ; Yang, KY (Yang, Kevin Yi)[ 1,2 ] ; Zhou, HF (Zhou, He-Feng)[ 3,4 ] ; Kwok, JSL (Kwok, Jamie Sui-Lam)[ 1 ] ; Liu, GC (Liu, Guo-Cheng)[ 5 ] ; Li, XF (Li, Xiao-Feng)[ 5 ] ; Zhong, SL (Zhong, Silin)[ 6 ] ; Lee, SMY (Lee, Simon Ming-Yuen)[ 3,4 ] ...More
+BMC GENOMICS
+table len: 1
+table: 
+td elements len: 2
+title: Transcriptome analysis of leaves, roots and flowers of Panax notoginseng identifies genes involved in ginsenoside and alkaloid biosynthesis 
+ authors: By:Liu, MH (Liu, Ming-Hua)[ 1 ] ; Yang, BR (Yang, Bin-Rui)[ 3,4 ] ; Cheung, WF (Cheung, Wai-Fung)[ 5 ] ; Yang, KY (Yang, Kevin Yi)[ 1,2 ] ; Zhou, HF (Zhou, He-Feng)[ 3,4 ] ; Kwok, JSL (Kwok, Jamie Sui-Lam)[ 1 ] ; Liu, GC (Liu, Guo-Cheng)[ 5 ] ; Li, XF (Li, Xiao-Feng)[ 5 ] ; Zhong, SL (Zhong, Silin)[ 6 ] ; Lee, SMY (Lee, Simon Ming-Yuen)[ 3,4 ] ...More 
+ journal: BMC GENOMICS 
+ if:   3.73   
+ if 5year: 4.257 
+ cf: 29 in All Databases
+
+
+
+process 2 page 12 item
+Direct observations on spatiotemporal evolution of ischemic penumbra with two-photon microscopy
+https://apps.webofknowledge.com/full_record.do?product=WOS&search_mode=AdvancedSearch&qid=1&SID=F2SjnLiVPuaEUXWoJlR&page=2&doc=12
+By:Su, H (Su, H.)[ 1 ] ; Luo, C (Luo, C.)[ 1 ] ; Liu, Q (Liu, Q.)[ 1 ] ; He, B (He, B.)[ 2,3 ] ; Pei, Z (Pei, Z.)[ 2,3 ] ; Yao, X (Yao, X.)[ 2,3 ]
+CEREBROVASCULAR DISEASES
+table len: 1
+table: 
+td elements len: 2
+title: Direct observations on spatiotemporal evolution of ischemic penumbra with two-photon microscopy 
+ authors: By:Su, H (Su, H.)[ 1 ] ; Luo, C (Luo, C.)[ 1 ] ; Liu, Q (Liu, Q.)[ 1 ] ; He, B (He, B.)[ 2,3 ] ; Pei, Z (Pei, Z.)[ 2,3 ] ; Yao, X (Yao, X.)[ 2,3 ] 
+ journal: CEREBROVASCULAR DISEASES 
+ if:   2.931   
+ if 5year: 3.523 
+ cf: 0
+
+
+
+process 2 page 13 item
+Berberine Interfered with Breast Cancer Cells Metabolism, Balancing Energy Homeostasis
+https://apps.webofknowledge.com/full_record.do?product=WOS&search_mode=AdvancedSearch&qid=1&SID=F2SjnLiVPuaEUXWoJlR&page=2&doc=13
+By:Tan, W (Tan, Wen)[ 1,2,3 ] ; Li, N (Li, Ning)[ 2,3 ] ; Tan, R (Tan, Rui)[ 4 ] ; Zhong, ZF (Zhong, Zhangfeng)[ 2,3 ] ; Suo, ZW (Suo, Zhanwei)[ 1 ] ; Yang, X (Yang, Xian)[ 1 ] ; Wang, YT (Wang, Yitao)[ 2,3 ] ; Hu, XD (Hu, Xiaodong)[ 1 ]
+ANTI-CANCER AGENTS IN MEDICINAL CHEMISTRY
+table len: 1
+table: 
+td elements len: 2
+title: Berberine Interfered with Breast Cancer Cells Metabolism, Balancing Energy Homeostasis 
+ authors: By:Tan, W (Tan, Wen)[ 1,2,3 ] ; Li, N (Li, Ning)[ 2,3 ] ; Tan, R (Tan, Rui)[ 4 ] ; Zhong, ZF (Zhong, Zhangfeng)[ 2,3 ] ; Suo, ZW (Suo, Zhanwei)[ 1 ] ; Yang, X (Yang, Xian)[ 1 ] ; Wang, YT (Wang, Yitao)[ 2,3 ] ; Hu, XD (Hu, Xiaodong)[ 1 ] 
+ journal: ANTI-CANCER AGENTS IN MEDICINAL CHEMISTRY 
+ if:   2.556   
+ if 5year: 2.631 
+ cf: 8 in All Databases
+
+
+
+process 2 page 14 item
+New Perspective on the Dual Functions of Indirubins in Cancer Therapy and Neuroprotection
+https://apps.webofknowledge.com/full_record.do?product=WOS&search_mode=AdvancedSearch&qid=1&SID=F2SjnLiVPuaEUXWoJlR&page=2&doc=14
+By:Wang, Y (Wang, Ying); Hoi, PM (Hoi, Pui Man); Chan, JYW (Chan, Judy Yuet-Wa); Lee, SMY (Lee, Simon M. -Y.)[ 1 ]
+ANTI-CANCER AGENTS IN MEDICINAL CHEMISTRY
+table len: 1
+table: 
+td elements len: 2
+title: New Perspective on the Dual Functions of Indirubins in Cancer Therapy and Neuroprotection 
+ authors: By:Wang, Y (Wang, Ying); Hoi, PM (Hoi, Pui Man); Chan, JYW (Chan, Judy Yuet-Wa); Lee, SMY (Lee, Simon M. -Y.)[ 1 ] 
+ journal: ANTI-CANCER AGENTS IN MEDICINAL CHEMISTRY 
+ if:   2.556   
+ if 5year: 2.631 
+ cf: 5 in All Databases
+
+
+
+process 2 page 15 item
+Furanodiene enhances tamoxifen-induced growth inhibitory activity of ERa-positive breast cancer cells in a PPAR gamma independent manner
+https://apps.webofknowledge.com/full_record.do?product=WOS&search_mode=AdvancedSearch&qid=1&SID=F2SjnLiVPuaEUXWoJlR&page=2&doc=15
+By:Zhong, ZF (Zhong, Zhang-Feng)[ 1,2 ] ; Li, YB (Li, Ying-Bo)[ 1,2 ] ; Wang, SP (Wang, Sheng-Peng)[ 1,2 ] ; Tan, W (Tan, Wen)[ 1,2 ] ; Chen, XP (Chen, Xiu-Ping)[ 1,2 ] ; Chen, MW (Chen, Mei-Wan)[ 1,2 ] ; Wang, YT (Wang, Yi-Tao)[ 1,2 ]
+JOURNAL OF CELLULAR BIOCHEMISTRY
+table len: 1
+table: 
+td elements len: 2
+title: Furanodiene enhances tamoxifen-induced growth inhibitory activity of ERa-positive breast cancer cells in a PPAR gamma independent manner 
+ authors: By:Zhong, ZF (Zhong, Zhang-Feng)[ 1,2 ] ; Li, YB (Li, Ying-Bo)[ 1,2 ] ; Wang, SP (Wang, Sheng-Peng)[ 1,2 ] ; Tan, W (Tan, Wen)[ 1,2 ] ; Chen, XP (Chen, Xiu-Ping)[ 1,2 ] ; Chen, MW (Chen, Mei-Wan)[ 1,2 ] ; Wang, YT (Wang, Yi-Tao)[ 1,2 ] 
+ journal: JOURNAL OF CELLULAR BIOCHEMISTRY 
+ if:   2.959   
+ if 5year: 3.132 
+ cf: 21 in All Databases
+
+
+
+process 2 page 16 item
+Anti-angiogenic effect of furanodiene on HUVECs in vitro and on zebrafish in vivo
+https://apps.webofknowledge.com/full_record.do?product=WOS&search_mode=AdvancedSearch&qid=1&SID=F2SjnLiVPuaEUXWoJlR&page=2&doc=16
+By:Zhong, ZF (Zhong, Zhang-Feng)[ 1,2,3 ] ; Hoi, PM (Hoi, Pui-Man)[ 2,3 ] ; Wu, GS (Wu, Guo-Sheng)[ 2,3 ] ; Xu, ZT (Xu, Zeng-Tao)[ 2,3 ] ; Tan, W (Tan, Wen)[ 2,3 ] ; Chen, XP (Chen, Xiu-Ping)[ 2,3 ] ; Cui, L (Cui, Liao)[ 1 ] ; Wu, T (Wu, Tie)[ 1 ] ; Wang, YT (Wang, Yi-Tao)[ 2,3 ]
+JOURNAL OF ETHNOPHARMACOLOGY
+table len: 1
+table: 
+td elements len: 2
+title: Anti-angiogenic effect of furanodiene on HUVECs in vitro and on zebrafish in vivo 
+ authors: By:Zhong, ZF (Zhong, Zhang-Feng)[ 1,2,3 ] ; Hoi, PM (Hoi, Pui-Man)[ 2,3 ] ; Wu, GS (Wu, Guo-Sheng)[ 2,3 ] ; Xu, ZT (Xu, Zeng-Tao)[ 2,3 ] ; Tan, W (Tan, Wen)[ 2,3 ] ; Chen, XP (Chen, Xiu-Ping)[ 2,3 ] ; Cui, L (Cui, Liao)[ 1 ] ; Wu, T (Wu, Tie)[ 1 ] ; Wang, YT (Wang, Yi-Tao)[ 2,3 ] 
+ journal: JOURNAL OF ETHNOPHARMACOLOGY 
+ if:   3.115   
+ if 5year: 3.493 
+ cf: 36 in All Databases
+
+
+
+process 2 page 17 item
+Antidiabetic Effect of the Total Polyphenolic Acids Fraction from Salvia miltiorrhiza Bunge in Diabetic Rats
+https://apps.webofknowledge.com/full_record.do?product=WOS&search_mode=AdvancedSearch&qid=1&SID=F2SjnLiVPuaEUXWoJlR&page=2&doc=17
+By:Huang, MQ (Huang, Mingqing)[ 2,4,5 ] ; Xie, YL (Xie, Youliang)[ 1 ] ; Chen, LD (Chen, Lidian)[ 2 ] ; Chu, KD (Chu, Kedan)[ 2 ] ; Wu, SS (Wu, Shuisheng)[ 2 ] ; Lu, JJ (Lu, Jinjian)[ 3,4,5 ] ; Chen, XP (Chen, Xiuping)[ 4,5 ] ; Wang, YT (Wang, Yitao)[ 4,5 ] ; Lai, XP (Lai, Xiaoping)[ 1 ]
+PHYTOTHERAPY RESEARCH
+table len: 1
+table: 
+td elements len: 2
+title: Antidiabetic Effect of the Total Polyphenolic Acids Fraction from Salvia miltiorrhiza Bunge in Diabetic Rats 
+ authors: By:Huang, MQ (Huang, Mingqing)[ 2,4,5 ] ; Xie, YL (Xie, Youliang)[ 1 ] ; Chen, LD (Chen, Lidian)[ 2 ] ; Chu, KD (Chu, Kedan)[ 2 ] ; Wu, SS (Wu, Shuisheng)[ 2 ] ; Lu, JJ (Lu, Jinjian)[ 3,4,5 ] ; Chen, XP (Chen, Xiuping)[ 4,5 ] ; Wang, YT (Wang, Yitao)[ 4,5 ] ; Lai, XP (Lai, Xiaoping)[ 1 ] 
+ journal: PHYTOTHERAPY RESEARCH 
+ if:   3.349   
+ if 5year: 3.112 
+ cf: 19 in All Databases
+
+
+
+process 2 page 18 item
+A new coumarin from Citrus grandis 'Shatianyu'
+https://apps.webofknowledge.com/full_record.do?product=WOS&search_mode=AdvancedSearch&qid=1&SID=F2SjnLiVPuaEUXWoJlR&page=2&doc=18
+By:Zhang, XQ (Zhang, Xiao-Qi)[ 1,2 ] ; Hu, TT (Hu, Tian-Tian)[ 1,2 ] ; Wang, L (Wang, Lei)[ 1,2 ] ; Wang, GC (Wang, Guo-Cai)[ 1,2 ] ; Fan, CL (Fan, Chun-Lin)[ 1,2 ] ; Zhang, Y (Zhang, Ying)[ 2 ] ; Zhang, QW (Zhang, Qin-Wen)[ 3,4 ] ; Ye, WC (Ye, Wen-Cai)[ 1,2 ]
+BIOCHEMICAL SYSTEMATICS AND ECOLOGY
+table len: 1
+table: 
+td elements len: 2
+title: A new coumarin from Citrus grandis 'Shatianyu' 
+ authors: By:Zhang, XQ (Zhang, Xiao-Qi)[ 1,2 ] ; Hu, TT (Hu, Tian-Tian)[ 1,2 ] ; Wang, L (Wang, Lei)[ 1,2 ] ; Wang, GC (Wang, Guo-Cai)[ 1,2 ] ; Fan, CL (Fan, Chun-Lin)[ 1,2 ] ; Zhang, Y (Zhang, Ying)[ 2 ] ; Zhang, QW (Zhang, Qin-Wen)[ 3,4 ] ; Ye, WC (Ye, Wen-Cai)[ 1,2 ] 
+ journal: BIOCHEMICAL SYSTEMATICS AND ECOLOGY 
+ if:   0.847   
+ if 5year: 1.022 
+ cf: 5 in All Databases
+
+
+
+process 2 page 19 item
+Angelica sinensis isolate SBD.4: composition, gene expression profiling, mechanism of action and effect on wounds, in rats and humans
+https://apps.webofknowledge.com/full_record.do?product=WOS&search_mode=AdvancedSearch&qid=1&SID=F2SjnLiVPuaEUXWoJlR&page=2&doc=19
+By:Zhao, H (Zhao, Hui)[ 1 ] ; Deneau, J (Deneau, Joel)[ 1 ] ; Che, GOL (Che, Ginny O. L.)[ 2 ] ; Li, S (Li, Shang)[ 2 ] ; Vagnini, F (Vagnini, Frederic)[ 3 ] ; Azadi, P (Azadi, Parastoo)[ 4 ] ; Sonon, R (Sonon, Roberto)[ 4 ] ; Ramjit, R (Ramjit, Ravi)[ 5 ] ; Lee, SMY (Lee, Simon M. Y.)[ 2 ] ; Bojanowski, K (Bojanowski, Krzysztof)[ 1 ]
+EUROPEAN JOURNAL OF DERMATOLOGY
+table len: 1
+table: 
+td elements len: 2
+title: Angelica sinensis isolate SBD.4: composition, gene expression profiling, mechanism of action and effect on wounds, in rats and humans 
+ authors: By:Zhao, H (Zhao, Hui)[ 1 ] ; Deneau, J (Deneau, Joel)[ 1 ] ; Che, GOL (Che, Ginny O. L.)[ 2 ] ; Li, S (Li, Shang)[ 2 ] ; Vagnini, F (Vagnini, Frederic)[ 3 ] ; Azadi, P (Azadi, Parastoo)[ 4 ] ; Sonon, R (Sonon, Roberto)[ 4 ] ; Ramjit, R (Ramjit, Ravi)[ 5 ] ; Lee, SMY (Lee, Simon M. Y.)[ 2 ] ; Bojanowski, K (Bojanowski, Krzysztof)[ 1 ] 
+ journal: EUROPEAN JOURNAL OF DERMATOLOGY 
+ if:   1.944   
+ if 5year: 2.307 
+ cf: 12 in All Databases
+
+
+
+process 2 page 20 item
+Dehydrocorydaline Inhibits Breast Cancer Cells Proliferation by Inducing Apoptosis in MCF-7 Cells
+https://apps.webofknowledge.com/full_record.do?product=WOS&search_mode=AdvancedSearch&qid=1&SID=F2SjnLiVPuaEUXWoJlR&page=2&doc=20
+By:Xu, ZT (Xu, Zengtao)[ 1,2,3 ] ; Chen, XP (Chen, Xiuping)[ 2,3 ] ; Fu, S (Fu, Shu)[ 2,3 ] ; Bao, JL (Bao, Jiaolin)[ 2,3 ] ; Dang, YY (Dang, Yuanye)[ 2,3 ] ; Huang, MQ (Huang, Mingqing)[ 1,2,3 ] ; Chen, LD (Chen, Lidian)[ 1 ] ; Wang, YT (Wang, Yitao)[ 1,2,3 ]
+AMERICAN JOURNAL OF CHINESE MEDICINE
+table len: 1
+table: 
+td elements len: 2
+title: Dehydrocorydaline Inhibits Breast Cancer Cells Proliferation by Inducing Apoptosis in MCF-7 Cells 
+ authors: By:Xu, ZT (Xu, Zengtao)[ 1,2,3 ] ; Chen, XP (Chen, Xiuping)[ 2,3 ] ; Fu, S (Fu, Shu)[ 2,3 ] ; Bao, JL (Bao, Jiaolin)[ 2,3 ] ; Dang, YY (Dang, Yuanye)[ 2,3 ] ; Huang, MQ (Huang, Mingqing)[ 1,2,3 ] ; Chen, LD (Chen, Lidian)[ 1 ] ; Wang, YT (Wang, Yitao)[ 1,2,3 ] 
+ journal: AMERICAN JOURNAL OF CHINESE MEDICINE 
+ if:   3.12   
+ if 5year: 2.635 
+ cf: 19 in All Databases
+
+
+
+process 3 page 21 item
+Anti-tumor potential of ethanol extract of Curcuma phaeocaulis Valeton against breast cancer cells
+https://apps.webofknowledge.com/full_record.do?product=WOS&search_mode=AdvancedSearch&qid=1&SID=F2SjnLiVPuaEUXWoJlR&page=3&doc=21
+By:Chen, XP (Chen, Xiuping)[ 1,2 ] ; Pei, LX (Pei, Lixia)[ 3 ] ; Zhong, ZF (Zhong, Zhangfeng)[ 1,2 ] ; Guo, JJ (Guo, Jiajie)[ 1,2 ] ; Zhang, QW (Zhang, Qingwen)[ 1,2 ] ; Wang, YT (Wang, Yitao)[ 1,2 ]
+PHYTOMEDICINE
+table len: 1
+table: 
+td elements len: 2
+title: Anti-tumor potential of ethanol extract of Curcuma phaeocaulis Valeton against breast cancer cells 
+ authors: By:Chen, XP (Chen, Xiuping)[ 1,2 ] ; Pei, LX (Pei, Lixia)[ 3 ] ; Zhong, ZF (Zhong, Zhangfeng)[ 1,2 ] ; Guo, JJ (Guo, Jiajie)[ 1,2 ] ; Zhang, QW (Zhang, Qingwen)[ 1,2 ] ; Wang, YT (Wang, Yitao)[ 1,2 ] 
+ journal: PHYTOMEDICINE 
+ if:   3.61   
+ if 5year: 3.59 
+ cf: 43 in All Databases
+
+
+
+process 3 page 22 item
+Anti-inflammatory activities of Chinese herbal medicine sinomenine and Liang Miao San on tumor necrosis factor-alpha-activated human fibroblast-like synoviocytes in rheumatoid arthritis
+https://apps.webofknowledge.com/full_record.do?product=WOS&search_mode=AdvancedSearch&qid=1&SID=F2SjnLiVPuaEUXWoJlR&page=3&doc=22
+By:Chen, DP (Chen, Da-Peng)[ 1,2 ] ; Wong, CK (Wong, Chun-Kwok)[ 1,3,4 ] ; Leung, PC (Leung, Ping-Chung)[ 3,4 ] ; Fung, KP (Fung, Kwok-Pui)[ 3,4,5 ] ; Lau, CBS (Lau, Clara Bik-San)[ 3,4 ] ; Lau, CP (Lau, Ching-Po)[ 3,4 ] ; Li, EKM (Li, Edmund Kwok-Ming)[ 6 ] ; Tam, LS (Tam, Lai-Shan)[ 6 ] ; Lam, CWK (Lam, Christopher Wai-Kei)[ 1,7,8 ]
+JOURNAL OF ETHNOPHARMACOLOGY
+table len: 1
+table: 
+td elements len: 2
+title: Anti-inflammatory activities of Chinese herbal medicine sinomenine and Liang Miao San on tumor necrosis factor-alpha-activated human fibroblast-like synoviocytes in rheumatoid arthritis 
+ authors: By:Chen, DP (Chen, Da-Peng)[ 1,2 ] ; Wong, CK (Wong, Chun-Kwok)[ 1,3,4 ] ; Leung, PC (Leung, Ping-Chung)[ 3,4 ] ; Fung, KP (Fung, Kwok-Pui)[ 3,4,5 ] ; Lau, CBS (Lau, Clara Bik-San)[ 3,4 ] ; Lau, CP (Lau, Ching-Po)[ 3,4 ] ; Li, EKM (Li, Edmund Kwok-Ming)[ 6 ] ; Tam, LS (Tam, Lai-Shan)[ 6 ] ; Lam, CWK (Lam, Christopher Wai-Kei)[ 1,7,8 ] 
+ journal: JOURNAL OF ETHNOPHARMACOLOGY 
+ if:   3.115   
+ if 5year: 3.493 
+ cf: 51 in All Databases
+
+
+
+process 3 page 23 item
+No protective effect of curcumin on hydrogen peroxide-induced cytotoxicity in HepG2 cells
+https://apps.webofknowledge.com/full_record.do?product=WOS&search_mode=AdvancedSearch&qid=1&SID=F2SjnLiVPuaEUXWoJlR&page=3&doc=23
+By:Chen, XP (Chen, Xiuping)[ 1,2 ] ; Zhong, ZF (Zhong, Zhangfeng)[ 1,2 ] ; Xu, ZT (Xu, Zengtao)[ 1,2 ] ; Chen, LD (Chen, Lidian)[ 3 ] ; Wang, YT (Wang, Yitao)[ 1,2 ]
+PHARMACOLOGICAL REPORTS
+table len: 1
+table: 
+td elements len: 2
+title: No protective effect of curcumin on hydrogen peroxide-induced cytotoxicity in HepG2 cells 
+ authors: By:Chen, XP (Chen, Xiuping)[ 1,2 ] ; Zhong, ZF (Zhong, Zhangfeng)[ 1,2 ] ; Xu, ZT (Xu, Zengtao)[ 1,2 ] ; Chen, LD (Chen, Lidian)[ 3 ] ; Wang, YT (Wang, Yitao)[ 1,2 ] 
+ journal: PHARMACOLOGICAL REPORTS 
+ if:   2.787   
+ if 5year: 2.702 
+ cf: 30 in All Databases
+
+
+
+process 3 page 24 item
+The effectiveness of Tsu-San-Li (St-36) and Tai-Chung (Li-3) acupoints for treatment of acute liver damage in rats
+https://apps.webofknowledge.com/full_record.do?product=WOS&search_mode=AdvancedSearch&qid=1&SID=F2SjnLiVPuaEUXWoJlR&page=3&doc=24
+By:Liu, HJ (Liu, HJ); Hsu, SF (Hsu, SF); Hsieh, CC (Hsieh, CC); Ho, TY (Ho, TY); Hsieh, CL (Hsieh, CL); Tsai, CC (Tsai, CC); Lin, JG (Lin, JG)
+AMERICAN JOURNAL OF CHINESE MEDICINE
+table len: 1
+table: 
+td elements len: 2
+title: The effectiveness of Tsu-San-Li (St-36) and Tai-Chung (Li-3) acupoints for treatment of acute liver damage in rats 
+ authors: By:Liu, HJ (Liu, HJ); Hsu, SF (Hsu, SF); Hsieh, CC (Hsieh, CC); Ho, TY (Ho, TY); Hsieh, CL (Hsieh, CL); Tsai, CC (Tsai, CC); Lin, JG (Lin, JG) 
+ journal: AMERICAN JOURNAL OF CHINESE MEDICINE 
+ if:   3.12   
+ if 5year: 2.635 
+ cf: 10 in All Databases

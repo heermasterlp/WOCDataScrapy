@@ -13,7 +13,7 @@ sleep_time = 1
 
 options = Options()
 options.headless = True
-driver = webdriver.Firefox(options=options, executable_path='geckodriver.exe')
+driver = webdriver.Firefox(options=options, executable_path='../geckodriver')
 
 root = 'http://www.webofknowledge.com/'
 s = requests.get(root)
@@ -30,7 +30,7 @@ if input_form:
 else:
     print('Input form not found!')
 
-content = 'OO=(State Key Lab Qual Res Chinese Med OR Inst Chinese Med Sci) AND OG=(University of Macau OR Univ Macau OR Univ Macao OR Macau Univ OR Inst Chinese Med Sci OR State Key Lab Qual Res Chinese Med)'
+content = 'AD=(State Key Lab Qual Res Chinese Med OR Inst Chinese Med Sci) AND OG=(University of Macau OR Univ Macau OR Univ Macao OR Macau Univ OR Inst Chinese Med Sci OR State Key Lab Qual Res Chinese Med)'
 input_form.send_keys(content)
 input_form.submit()
 
@@ -42,8 +42,11 @@ try:
     if search_result_elem:
         print("Find search item element")
         print('text', search_result_elem.text)
+        result_num_str = search_result_elem.text
+        if "," in result_num_str:
+            result_num_str = result_num_str.replace(",", "");
 
-        result_num = int(search_result_elem.text)
+        result_num = int(result_num_str)
         search_result_elem_a = search_result_elem.find_element_by_tag_name('a')
 
         item_per_page = 10
@@ -108,8 +111,7 @@ try:
 
                     # impact factor and 5-year
                     if_table_elem = driver.find_elements_by_class_name('Impact_Factor_table')
-                    print('table len:', len(if_table_elem))
-                    print('table:', if_table_elem[0].text)
+
                     if if_table_elem and len(if_table_elem) >= 1:
                         td_elements = if_table_elem[0].find_elements_by_tag_name('td')
                         print('td elements len:', len(td_elements))
