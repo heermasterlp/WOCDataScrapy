@@ -11,7 +11,6 @@ import re
 import math
 import os
 import csv
-import pandas as pd
 
 
 sleep_time = 1
@@ -34,7 +33,7 @@ class WebOfScrapy(object):
     def __init__(self):
         options = Options()
         options.headless = True
-        self.driver = webdriver.Firefox(options=options, executable_path='../geckodriver')
+        self.driver = webdriver.Firefox(options=options, executable_path='geckodriver.exe')
 
     def __del__(self):
         self.driver.quit()
@@ -210,9 +209,6 @@ class WebOfScrapy(object):
 
                                 time.sleep(sleep_time)
 
-                                if i == 10:
-                                    break
-
                 # update total number of result
                 with open(total_result_path, 'w') as f:
                     f.write(result_num_str)
@@ -220,10 +216,9 @@ class WebOfScrapy(object):
             else:
                 print("Not find the research result element!")
                 return
-
-
         finally:
             self.driver.quit()
+
 
 def main():
     root = 'http://www.webofknowledge.com/'

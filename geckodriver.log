@@ -1,0 +1,16 @@
+1542944769533	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofile.stPR9iGEVdl0"
+*** You are running in headless mode.
+1542944772044	Marionette	INFO	Listening on port 52531
+1542944772282	Marionette	WARN	TLS certificate errors will be ignored for this session
+1542944797816	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofile.VdnIpAlRoRIo"
+*** You are running in headless mode.
+1542944799405	Marionette	INFO	Listening on port 52625
+1542944799433	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
