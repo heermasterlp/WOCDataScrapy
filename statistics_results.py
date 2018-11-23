@@ -5,8 +5,11 @@ data1_path = "Publish_papers_statistics_all.csv"
 
 df = pd.read_csv(data1_path)
 
-print(df.count())
+# total papers
+total_paper_count = df.count()["Title"]
+print(total_paper_count)
 
+# statistics papers per year
 publish_years = df["Publish Year"]
 
 years = set(publish_years)
